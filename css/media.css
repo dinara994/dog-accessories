@@ -159,12 +159,13 @@
     }
 }
 @media (max-width: 768px) { /* 481 - 768 */
-    .hero-img{
-    display: none;
-    }
     .container{
         max-width: 540px;
     }
+    .hero-img{
+    display: none;
+    }
+
     .product-box {
         padding: 40px 25px 19px;
         margin: 28px 0 70px;
