@@ -161,7 +161,6 @@
 @media (max-width: 768px) { /* 481 - 768 */
     .container{
         max-width: 540px;
-        height: ;
     }
     .hero-img{
     display: none;
